@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Pattern.StateMachine
-build_property.ProjectDir = /home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/
+build_property.ProjectDir = /home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.StateMachine/
