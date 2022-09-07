@@ -1,0 +1,15 @@
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/bin/Debug/net6.0/Pattern.StateMachine
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/bin/Debug/net6.0/Pattern.StateMachine.deps.json
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/bin/Debug/net6.0/Pattern.StateMachine.runtimeconfig.json
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/bin/Debug/net6.0/Pattern.StateMachine.dll
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/bin/Debug/net6.0/Pattern.StateMachine.pdb
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/obj/Debug/net6.0/Pattern.StateMachine.csproj.AssemblyReference.cache
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/obj/Debug/net6.0/Pattern.StateMachine.GeneratedMSBuildEditorConfig.editorconfig
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/obj/Debug/net6.0/Pattern.StateMachine.AssemblyInfoInputs.cache
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/obj/Debug/net6.0/Pattern.StateMachine.AssemblyInfo.cs
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/obj/Debug/net6.0/Pattern.StateMachine.csproj.CoreCompileInputs.cache
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/obj/Debug/net6.0/Pattern.StateMachine.dll
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/obj/Debug/net6.0/refint/Pattern.StateMachine.dll
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/obj/Debug/net6.0/Pattern.StateMachine.pdb
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/obj/Debug/net6.0/Pattern.StateMachine.genruntimeconfig.cache
+/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/obj/Debug/net6.0/ref/Pattern.StateMachine.dll
