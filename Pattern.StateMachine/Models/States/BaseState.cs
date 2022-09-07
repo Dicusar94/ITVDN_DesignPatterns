@@ -3,11 +3,9 @@ using Pattern.StateMachine.Interfaces;
 
 namespace Pattern.StateMachine.Models.States;
 
-public class BaseState : IState
+public abstract class BaseState : IState
 {
-    public virtual void ChangeState(Father father, Mark mark)
-    {
-    }
+    public abstract void ChangeState(Father father, Mark mark);
 
     public void HandlerMark(Father father, Mark mark)
     {

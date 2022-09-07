@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/Pattern.StateMachine.csproj": {}
+    "/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.StateMachine/Pattern.StateMachine.csproj": {}
   },
   "projects": {
-    "/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/Pattern.StateMachine.csproj": {
+    "/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.StateMachine/Pattern.StateMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/Pattern.StateMachine.csproj",
+        "projectUniqueName": "/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.StateMachine/Pattern.StateMachine.csproj",
         "projectName": "Pattern.StateMachine",
-        "projectPath": "/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/Pattern.StateMachine.csproj",
+        "projectPath": "/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.StateMachine/Pattern.StateMachine.csproj",
         "packagesPath": "/home/denis/.nuget/packages/",
-        "outputPath": "/home/denis/Documents/#Repositories/Courses/NoGit/1.ITVDN_DesingPatterns/Pattern.StateMachine/obj/",
+        "outputPath": "/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.StateMachine/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/denis/.nuget/NuGet/NuGet.Config"
