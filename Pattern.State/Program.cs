@@ -9,7 +9,7 @@ public static class Program
     {
         var laptop = new Laptop();
         laptop.SingIn("dicusar.dv");
-        laptop.SingIn("adsfasdfasdf");
+        laptop.SingIn("Father");
         laptop.SingOut();
         laptop.SingOut();
         laptop.SingIn("xxx");
