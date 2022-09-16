@@ -1,0 +1,15 @@
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/obj/Debug/net6.0/Pattern.OopPrinciples.csproj.AssemblyReference.cache
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/obj/Debug/net6.0/Pattern.OopPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/obj/Debug/net6.0/Pattern.OopPrinciples.AssemblyInfoInputs.cache
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/obj/Debug/net6.0/Pattern.OopPrinciples.AssemblyInfo.cs
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/obj/Debug/net6.0/Pattern.OopPrinciples.csproj.CoreCompileInputs.cache
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/bin/Debug/net6.0/Pattern.OopPrinciples
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/bin/Debug/net6.0/Pattern.OopPrinciples.deps.json
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/bin/Debug/net6.0/Pattern.OopPrinciples.runtimeconfig.json
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/bin/Debug/net6.0/Pattern.OopPrinciples.dll
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/bin/Debug/net6.0/Pattern.OopPrinciples.pdb
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/obj/Debug/net6.0/Pattern.OopPrinciples.dll
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/obj/Debug/net6.0/refint/Pattern.OopPrinciples.dll
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/obj/Debug/net6.0/Pattern.OopPrinciples.pdb
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/obj/Debug/net6.0/Pattern.OopPrinciples.genruntimeconfig.cache
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.OopPrinciples/obj/Debug/net6.0/ref/Pattern.OopPrinciples.dll
