@@ -2,11 +2,11 @@ using System.Collections.Generic;
 using System;
 namespace Pattern.OopPrinciples;
 
-public class Polymorphism
+public static class Polymorphism
 {
-    public static void Execute() 
+    public static void Execute()
     {
-        // Example1();
+        Example1();
         Example2();
     }
 
@@ -32,7 +32,7 @@ public class Polymorphism
 
     private static void Example1ImplicitPolymorphism()
     {
-        Circle circle = new Circle();
+        Circle circle = new();
         circle.Draw(); //Calls the draw circle
 
         Console.WriteLine();
@@ -55,7 +55,7 @@ public class Polymorphism
             dl.DoWork();
         }
 
-        D derivedClass = new D();
+        D derivedClass = new();
         derivedClass.DoWork();
 
         A baseClass = derivedClass;
@@ -95,7 +95,7 @@ public class Rectangle : Shape
 #region Example2
 public class A
 {
-    public virtual void DoWork() 
+    public virtual void DoWork()
     {
         Console.WriteLine($"Do work {nameof(A)}");
     }
