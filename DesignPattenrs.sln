@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.StateMachine", "Pat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.State", "Pattern.State\Pattern.State.csproj", "{E027DBE1-54ED-4D44-8224-0875E786FF16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.OopPrinciples", "Pattern.OopPrinciples\Pattern.OopPrinciples.csproj", "{71585748-C9A0-464E-8F85-E5557FDF864D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{E027DBE1-54ED-4D44-8224-0875E786FF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E027DBE1-54ED-4D44-8224-0875E786FF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E027DBE1-54ED-4D44-8224-0875E786FF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71585748-C9A0-464E-8F85-E5557FDF864D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71585748-C9A0-464E-8F85-E5557FDF864D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71585748-C9A0-464E-8F85-E5557FDF864D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71585748-C9A0-464E-8F85-E5557FDF864D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
