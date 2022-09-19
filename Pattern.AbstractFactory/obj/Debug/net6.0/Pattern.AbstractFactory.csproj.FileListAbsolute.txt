@@ -1,0 +1,15 @@
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/bin/Debug/net6.0/Pattern.AbstractFactory
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/bin/Debug/net6.0/Pattern.AbstractFactory.deps.json
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/bin/Debug/net6.0/Pattern.AbstractFactory.runtimeconfig.json
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/bin/Debug/net6.0/Pattern.AbstractFactory.dll
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/bin/Debug/net6.0/Pattern.AbstractFactory.pdb
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/obj/Debug/net6.0/Pattern.AbstractFactory.csproj.AssemblyReference.cache
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/obj/Debug/net6.0/Pattern.AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/obj/Debug/net6.0/Pattern.AbstractFactory.AssemblyInfoInputs.cache
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/obj/Debug/net6.0/Pattern.AbstractFactory.AssemblyInfo.cs
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/obj/Debug/net6.0/Pattern.AbstractFactory.csproj.CoreCompileInputs.cache
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/obj/Debug/net6.0/Pattern.AbstractFactory.dll
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/obj/Debug/net6.0/refint/Pattern.AbstractFactory.dll
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/obj/Debug/net6.0/Pattern.AbstractFactory.pdb
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/obj/Debug/net6.0/Pattern.AbstractFactory.genruntimeconfig.cache
+/home/denis/Documents/#Repositories/Courses/GitHub/1.ITVDN_DesignPatterns/Pattern.AbstractFactory/obj/Debug/net6.0/ref/Pattern.AbstractFactory.dll

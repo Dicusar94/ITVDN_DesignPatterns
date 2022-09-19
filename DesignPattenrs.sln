@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.State", "Pattern.St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.OopPrinciples", "Pattern.OopPrinciples\Pattern.OopPrinciples.csproj", "{71585748-C9A0-464E-8F85-E5557FDF864D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.AbstractFactory", "Pattern.AbstractFactory\Pattern.AbstractFactory.csproj", "{D9A85B1A-DDD0-4A2E-BE95-AA1B747661D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{71585748-C9A0-464E-8F85-E5557FDF864D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71585748-C9A0-464E-8F85-E5557FDF864D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71585748-C9A0-464E-8F85-E5557FDF864D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A85B1A-DDD0-4A2E-BE95-AA1B747661D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A85B1A-DDD0-4A2E-BE95-AA1B747661D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A85B1A-DDD0-4A2E-BE95-AA1B747661D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A85B1A-DDD0-4A2E-BE95-AA1B747661D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
